@@ -3,3 +3,4 @@ pillow==9.0
 pynput==1.7
 python-daemon==2.3
 setproctitle==1.2
+requests==2.21
